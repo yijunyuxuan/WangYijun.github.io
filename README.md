@@ -1,6 +1,6 @@
 ## Welcome to Yijun Wang's homepage!
 
-### Education
+### <strong>Education</strong>
 Astronomy, PhD
 
 ### Work experience
