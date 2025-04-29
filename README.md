@@ -1,7 +1,7 @@
 ## Welcome to Yijun Wang's homepage!
 
-> Education
-> 
+> <h1>Education</h1>
+ 
 ### Education
 Astronomy, PhD
 
