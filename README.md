@@ -3,10 +3,11 @@
 <style>
 #myHeader {
   width: 140px;
-  background-color: lightblue;
+  background-color: #b2d4cb;
   color: black;
   padding: 10px;
   text-align: center;
+  color: #23644e;
 } 
 </style>
 </head>
