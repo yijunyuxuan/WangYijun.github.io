@@ -5,6 +5,7 @@ Education
 ```
  
 ### Education
+<hr>
 Astronomy, PhD
 
 ### Work experience
