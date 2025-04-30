@@ -8,6 +8,7 @@
   padding: 10px;
   text-align: center;
   color: #23644e;
+  font-family: COPPERPLATE;
 } 
 </style>
 </head>
