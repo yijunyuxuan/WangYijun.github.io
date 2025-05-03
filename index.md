@@ -13,7 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Education
 
 > Visiting PhD student in Astrophysics @ SRON & Leiden University (2019-2020)
+> 
 > Doctor of Science in Astrophysics @ University of Science and Technology of China (2014-2021)
+> 
 > Bachelor of Science in Agriculture @ Huazhong Agriculture University (2010-2014)
 
 # Work Experience
