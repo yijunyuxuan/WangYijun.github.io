@@ -1,6 +1,7 @@
 ## Welcome to Yijun Wang's homepage!
 
 <html>
+
 <head>
 <style>
 #myEdu {
@@ -13,14 +14,7 @@
 }
 </style>
 </head>
-<paragraph>
-<style>
-#myEducont {
-  width: 500px;
-  border: 1px solid #d3e8df;
-}
-</style>
-</paragraph>
+
 <style>
 div {
   width:800px;
