@@ -10,12 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  width: 140px;
-  background-color: #d3e8df;
-  padding: 6px;
-  text-align: center;
-  color: #23644e;
-  font-family: COPPERPLATE;
+  color:#222;
   margin:0 0 20px;
 }
 
@@ -32,7 +27,13 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  width: 140px;
+  background-color: #d3e8df;
+  padding: 6px;
+  text-align: center;
+  color: #23644e;
+  font-family: COPPERPLATE;
+  margin:0 0 20px;
 }
 
 h3, h4, h5, h6 {
