@@ -10,7 +10,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  width: 140px;
+  background-color: #d3e8df;
+  padding: 6px;
+  text-align: center;
+  color: #23644e;
+  font-family: COPPERPLATE;
   margin:0 0 20px;
 }
 
@@ -61,7 +66,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:5px solid #d3e8df;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
