@@ -26,13 +26,11 @@ div {
 
 <h2 id="myEdu">Education</h2>
 <div>
-<pre>
 <ul>
   <li>Visiting PhD student in Astrophysics       SRON &amp; Leiden University</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
-</pre>
 </div>
 
 </body>
