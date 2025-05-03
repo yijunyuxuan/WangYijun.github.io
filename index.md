@@ -10,11 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> Visiting PhD student in Astrophysics @ SRON & Leiden University (2019-2020)
+> Doctor of Science in Astrophysics @ University of Science and Technology of China (2014-2021)
+> Bachelor of Science in Agriculture @ Huazhong Agriculture University (2010-2014)
 
-## Header 2
+# Work Experience
 
 > This is a blockquote following a header.
 >
