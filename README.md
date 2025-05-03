@@ -18,6 +18,7 @@
 <style>
 div {
   width:800px;
+  color: white;
   border: 5px solid #d3e8df;
 }
 </style>
