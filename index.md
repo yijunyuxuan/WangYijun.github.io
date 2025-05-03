@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Work Experience
 
-> Postdoctor @ Nanjing University (2021-present)
+> Postdoctor <br> @ Nanjing University (2021-present)
 
 ## Publications
 1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, ”Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59”, 2025, ApJ, 980, 107 (**[ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)
