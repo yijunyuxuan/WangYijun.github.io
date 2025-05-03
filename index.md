@@ -21,8 +21,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Work Experience
 
 > Postdoctor @ Nanjing University (2021-present)
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+## Publications
+* Yijun Wang, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou,”Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59”, 2025, ApJ, 980, 107 (**[ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)
+* Yijun Wang, Tao Wang, Junjie Mao, Yerong Xu, Zhicheng He, Zheng Zhou, Yongquan Xue, Jiayi Chen, Chen Li, Fangzheng Shi, Missagh Mehdipour, “Warm absorber outflows in radio-loud active galactic nucleus 3C 59”, 2025, A&A, under review
+
+
 
 ### Header 3
 
