@@ -1,5 +1,6 @@
 ## Welcome to Yijun Wang's homepage!
 
+<!DOCTYPE html>
 <html>
 
 <head>
