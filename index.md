@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Education
+## Education
 
 > Visiting PhD student in Astrophysics @ SRON & Leiden University (2019-2020)
 > 
@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > 
 > Bachelor of Science in Agriculture @ Huazhong Agriculture University (2010-2014)
 
-# Work Experience
+## Work Experience
 
 > Postdoctor @ Nanjing University (2021-present)
 >
