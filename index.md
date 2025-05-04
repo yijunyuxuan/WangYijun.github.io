@@ -23,14 +23,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > **Postdoctor (2021-present)** <br> @ Nanjing University
 
 ## Skills
-> Data reduction | Softwar or code
-> --- | ---
-> RXTE            | CIGALE
-> Swift    | galight
-> XMM-Newton | QSOfit
-> NuSTAR | EAZY
->        | SPEX
->        | XSPEC
+> | Data reduction | Softwar or code |
+> | --- | --- |
+> | RXTE            | CIGALE |
+> | Swift    | galight |
+> | XMM-Newton | QSOfit |
+> | NuSTAR | EAZY |
+> |      | SPEX |
+> |      | XSPEC |
 
 ## Publications
 1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, 2025, ApJ, ”**[Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**”
