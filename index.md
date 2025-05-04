@@ -23,7 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > **Postdoctor (2021-present)** <br> @ Nanjing University &#128540;
 
 ## Skills
-> | Astronomical data processing | Software or code |
+> | Data reduction | Software or code |
 > | ---: | ---: |
 > | RXTE &#9733;&#9733;&#9733;&#9733;&#9734;           | CIGALE &#9733;&#9733;&#9733;&#9733;&#9734; |
 > | Swift &#9733;&#9733;&#9733;&#9733;&#9734;    | galight &#9733;&#9733;&#9733;&#9733;&#9734; |
