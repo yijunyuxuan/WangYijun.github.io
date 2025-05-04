@@ -24,7 +24,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Publications
 1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, ”Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59”, 2025, ApJ, 980, 107 (**[ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)
-1. Yijun Wang, Tao Wang, Junjie Mao, Yerong Xu, Zhicheng He, Zheng Zhou, Yongquan Xue, Jiayi Chen, Chen Li, Fangzheng Shi, Missagh Mehdipour, “Warm absorber outflows in radio-loud active galactic nucleus 3C 59”, 2025, A&A, under review
+2. **Yijun Wang**, Tao Wang, Junjie Mao, Yerong Xu, Zhicheng He, Zheng Zhou, Yongquan Xue, Jiayi Chen, Chen Li, Fangzheng Shi, Missagh Mehdipour, “Warm absorber outflows in radio-loud active galactic nucleus 3C 59”, 2025, A&A, under review
+3. **Yijun Wang**, Tao Wang, Luis C. Ho, Yuxing Zhong, Bin Luo, “The fundamental plane of black hole activity for low-luminosity radio active galactic nuclei across 0 < z < 4”, 2024, A&A, 689, 327![image](https://github.com/user-attachments/assets/eadd0f6c-9c3e-4312-bba7-268e76691b20)
+ 
 
 
 
