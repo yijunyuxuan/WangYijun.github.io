@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Education
 
-> **Visiting PhD student in Astrophysics** <br> @ SRON & Leiden University (2019-2020)
+> **Visiting PhD student in Astrophysics** <br> :school: SRON & Leiden University :date: 2019-2020
 > 
 > **Doctor of Science in Astrophysics** <br> @ University of Science and Technology of China (2014-2021)
 > 
