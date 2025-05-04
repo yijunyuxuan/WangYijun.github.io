@@ -23,7 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > **Postdoctor (2021-present)** <br> @ Nanjing University
 
 ## Publications
-1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, 2025, ApJ, ”Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59” (**[ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)
+1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, 2025, ApJ, ”(**[Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)”
 2. **Yijun Wang**, Tao Wang, Junjie Mao, Yerong Xu, Zhicheng He, Zheng Zhou, Yongquan Xue, Jiayi Chen, Chen Li, Fangzheng Shi, Missagh Mehdipour, 2025, A&A (under review), “Warm absorber outflows in radio-loud active galactic nucleus 3C 59”
 3. **Yijun Wang**, Tao Wang, Luis C. Ho, Yuxing Zhong, Bin Luo, 2024, A&A, “The fundamental plane of black hole activity for low-luminosity radio active galactic nuclei across 0 < z < 4” (**[ADS link](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.327W/abstract)**)
 4. **Yijun Wang**, Tao Wang, Daizhong Liu, Mark T. Sargent, Fangyou Gao, David M. Alexander, Wiphu Rujopakarn, Luwenjia Zhou, Emanuele Daddi, Ke Xu, Kotaro Kohno, Shuowen Jin, 2024, A&A, “Cosmic evolution of radio-excess active galactic nuclei in quiescent and star-forming galaxies across 0 < z < 4” (**[ADS link](https://ui.adsabs.harvard.edu/abs/2024A%26A...685A..79W/abstract)**)
