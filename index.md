@@ -23,14 +23,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > **Postdoctor (2021-present)** <br> @ Nanjing University &#128540;
 
 ## Skills
-> | Astronomical data processing | Software or code |
-> | ---: | ---: |
-> | RXTE &#9733;&#9733;&#9733;&#9733;&#9734;           | CIGALE &#9733;&#9733;&#9733;&#9733;&#9734; |
-> | Swift &#9733;&#9733;&#9733;&#9733;&#9734;    | galight &#9733;&#9733;&#9733;&#9733;&#9734; |
-> | XMM-Newton &#9733;&#9733;&#9733;&#9733;&#9734; | QSOfit &#9733;&#9733;&#9733;&#9733;&#9734; |
-> | NuSTAR &#9733;&#9733;&#9733;&#9733;&#9734; | EAZY &#9733;&#9733;&#9733;&#9733;&#9734; |
-> |      | SPEX &#9733;&#9733;&#9733;&#9733;&#9734; |
-> |      | XSPEC &#9733;&#9733;&#9733;&#9733;&#9734; |
+| Astronomical data processing | Software or code |
+| ---: | ---: |
+| RXTE &#9733;&#9733;&#9733;&#9733;&#9734;           | CIGALE &#9733;&#9733;&#9733;&#9733;&#9734; |
+| Swift &#9733;&#9733;&#9733;&#9733;&#9734;    | galight &#9733;&#9733;&#9733;&#9733;&#9734; |
+| XMM-Newton &#9733;&#9733;&#9733;&#9733;&#9734; | QSOfit &#9733;&#9733;&#9733;&#9733;&#9734; |
+| NuSTAR &#9733;&#9733;&#9733;&#9733;&#9734; | EAZY &#9733;&#9733;&#9733;&#9733;&#9734; |
+|      | SPEX &#9733;&#9733;&#9733;&#9733;&#9734; |
+|      | XSPEC &#9733;&#9733;&#9733;&#9733;&#9734; |
 
 ## Publications
 1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, 2025, ApJ, ”**[Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**”
