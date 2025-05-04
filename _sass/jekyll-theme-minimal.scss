@@ -96,7 +96,8 @@ pre {
 }
 
 table {
-  width:600px;
+  width:100%;
+  table-layout:fixed;
   border-collapse:collapse;
 }
 
