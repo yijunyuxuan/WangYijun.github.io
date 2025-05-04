@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Work Experience
 
-> **Postdoctor (2021-present)** <br> @ Nanjing University
+> **Postdoctor (2021-present)** <br> @ Nanjing University &#128540;
 
 ## Skills
 > | Data reduction | Softwar or code |
