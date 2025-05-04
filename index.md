@@ -25,7 +25,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Skills
 > | Data reduction | Softwar or code |
 > | --- | --- |
-> | RXTE            | CIGALE |
+> | RXTE &#9733;&#9733;&#9733;&#9733;&#9734;           | CIGALE |
 > | Swift    | galight |
 > | XMM-Newton | QSOfit |
 > | NuSTAR | EAZY |
