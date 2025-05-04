@@ -1,6 +1,6 @@
 
 ![](_sass/cartoon.mp4)
-![Octocat](_sass/photo.png)
+![](_sass/photo.png)
 
 ## Education
 
