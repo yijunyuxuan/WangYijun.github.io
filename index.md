@@ -12,15 +12,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Education
 
-> **Visiting PhD student in Astrophysics** <br> 🏫 SRON & Leiden University 📅 2019-2020
+> **Visiting PhD student in Astrophysics (2019-2020)** <br> @ SRON & Leiden University
 > 
-> **Doctor of Science in Astrophysics** <br> @ University of Science and Technology of China (2014-2021)
+> **Doctor of Science in Astrophysics (2014-2021)** <br> @ University of Science and Technology of China
 > 
-> **Bachelor of Science in Agriculture** <br> @ Huazhong Agriculture University (2010-2014)
+> **Bachelor of Science in Agriculture (2010-2014)** <br> @ Huazhong Agriculture University
 
 ## Work Experience
 
-> Postdoctor <br> @ Nanjing University (2021-present)
+> **Postdoctor (2021-present)** <br> @ Nanjing University
 
 ## Publications
 1. **Yijun Wang**, Tao Wang, Ke Xu, Junjie Mao, Yerong Xu, Zheng Zhou, ”Minor-merger-induced star formation rejuvenation in an elliptical radio-loud quasar host, 3C 59”, 2025, ApJ, 980, 107 (**[ADS link](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..107W/abstract)**)
