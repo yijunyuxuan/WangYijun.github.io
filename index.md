@@ -1,6 +1,7 @@
 
-![](https://github.com/yijunyuxuan/WangYijun.github.io/edit/main/_sass/cartoon.mp4)
-![](https://github.com/yijunyuxuan/WangYijun.github.io/edit/main/_sass/photo.png)
+
+![photo](https://github.com/user-attachments/assets/e018b71f-6d6a-4e54-8750-0a6b7ed2720e)
+
 
 ## Education
 
