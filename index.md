@@ -1,6 +1,7 @@
 
 ![welcome_new](https://github.com/user-attachments/assets/065b0bab-b249-46ec-8bf7-8768a8edd70d)
 
+After finishing my studies on plant science at Huazhong Agriculture University (2010 - 2014), I studied astronomy at University of Science and Technology of China (2014 - 2021). Between 2019 and 2020, I was a visiting PhD student at SRON and Leiden University. Now I am a Postdoctor at Nanjing University. My works include X-ray spectral variabilities in blazars, warm absorber outflows, ambient circumnuclear medium around supermassive black hole, and radio activities of AGN.
 
 ## Education
 
