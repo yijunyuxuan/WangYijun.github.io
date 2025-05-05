@@ -1,5 +1,5 @@
 
-![welcome](https://github.com/user-attachments/assets/5dd7ec8c-ac8f-44e3-b7e2-b3839f46693d)
+![welcome_new](https://github.com/user-attachments/assets/065b0bab-b249-46ec-8bf7-8768a8edd70d)
 
 
 ## Education
