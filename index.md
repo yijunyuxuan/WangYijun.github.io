@@ -1,7 +1,7 @@
 
-![welcome_new](https://github.com/user-attachments/assets/065b0bab-b249-46ec-8bf7-8768a8edd70d)
+![welcome](https://github.com/user-attachments/assets/bfee5446-db5d-41a6-a985-6fc4db54133a)
 
-📧 wangyijun@nju.edu.cn
+# Email: wangyijun@nju.edu.cn
 
 ## Education
 
