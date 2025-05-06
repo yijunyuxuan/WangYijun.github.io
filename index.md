@@ -44,3 +44,4 @@
 > Address: Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia district, Nanjing, Jiangsu 210023, China
 
 ## Hobbies
+![hobbies](https://github.com/user-attachments/assets/000d95f6-8570-4886-8c1a-9f04bd49a00d)
