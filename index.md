@@ -38,8 +38,7 @@
 
 ## Contact
 
-> Email: [wangyijun@nju.edu.cn](wangyijun@nju.edu.cn)
-
+> Email: [wangyijun\@nju.edu.cn](mailto:wangyijun\@nju.edu.cn)
 
 
 
