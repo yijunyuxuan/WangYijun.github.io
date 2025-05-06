@@ -1,8 +1,6 @@
 
 ![welcome](https://github.com/user-attachments/assets/bfee5446-db5d-41a6-a985-6fc4db54133a)
 
-# Email: wangyijun@nju.edu.cn
-
 ## Education
 
 > **Visiting PhD student in Astrophysics (2019-2020)** <br> @ SRON & Leiden University
@@ -37,6 +35,10 @@
 9. Fangyou Gao, Tao Wang, **Yijun Wang**, 2025, A&A, “**[An empirical model of the extragalactic radio background](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A.261G/abstract)**”
 10. Zheng Zhou, Junjie Mao, Taotao Fang, **Yijun Wang**, Fabrizio Nicastro, Jiayi Chen, 2024, ApJ, “**[On the connection between the repeated X-ray quasiperiodic oscillation and warm absorber in the active galaxy RE J1034+396](https://ui.adsabs.harvard.edu/abs/2024ApJ...967..105Z/abstract)**”
 11. Missagh Mehdipour, G. A. Kriss, Jelle Kaastra, **Yijun Wang**, Junjie Mao, Elisa Costantini, N. Arav, Ehud Behar, Stefano Bianchi, Graziella Branduardi-Raymont, M. Brotherton, M. Cappi, Barbara De Marco, Laura di Gesu, Jacobo Ebrero, Sam Grafton-Waters, Shai Kaspi, G. Matt, Stáphane Paltani, Pierre Olivier Petrucci, Ciro Pinto, Gabriele Ponti, F. Ursini, Dominic James Walton, 2021, A&A, “**[Transient obscuration event captured in NGC 3227. I. Continuum model for the broadband spectral energy distribution](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.150M/abstract)**”
+
+## Contact
+
+> Email: [wangyijun@nju.edu.cn](wangyijun@nju.edu.cn)
 
 
 
