@@ -14,14 +14,15 @@
 > **Postdoctor (2021-present)** <br> @ Nanjing University
 
 ## Skills
-> | Data reduction | Software or code |
-> | --- | --- |
-> | XMM-Newton &#9733;&#9733;&#9733;&#9733;&#9733;           | CIGALE &#9733;&#9733;&#9733;&#9733;&#9733; |
-> | NuSTAR &#9733;&#9733;&#9733;&#9733;&#9734;    | galight &#9733;&#9733;&#9733;&#9733;&#9733; |
-> | Swift &#9733;&#9733;&#9733;&#9734;&#9734; | SPEX &#9733;&#9733;&#9733;&#9733;&#9733; |
-> | RXTE &#9733;&#9733;&#9733;&#9734;&#9734; | EAZY &#9733;&#9733;&#9733;&#9733;&#9734; |
-> |      | XSPEC &#9733;&#9733;&#9733;&#9734;&#9734; |
-> |      | QSOfit &#9733;&#9733;&#9733;&#9734;&#9734; |
+> | Data reduction                                     | Software or code                              |
+> | ---                                                | ---                                           |
+> | XMM-Newton &#9733;&#9733;&#9733;&#9733;&#9733;     | CIGALE &#9733;&#9733;&#9733;&#9733;&#9733;    |
+> | NuSTAR &#9733;&#9733;&#9733;&#9733;&#9734;         | galight &#9733;&#9733;&#9733;&#9733;&#9733;   |
+> | Swift &#9733;&#9733;&#9733;&#9734;&#9734;          | SPEX &#9733;&#9733;&#9733;&#9733;&#9733;      |
+> | RXTE &#9733;&#9733;&#9733;&#9734;&#9734;           | EAZY &#9733;&#9733;&#9733;&#9733;&#9734;      |
+> |                                                    | XSPEC &#9733;&#9733;&#9733;&#9734;&#9734;     |
+> |                                                    | QSOfit &#9733;&#9733;&#9733;&#9734;&#9734;    |
+> |                                                    | Photoshop &#9733;&#9733;&#9733;&#9733;&#9733; |
 
 ## Completed projects
 1. **Yijun Wang**, Tao Wang, Junjie Mao, Yerong Xu, Zhicheng He, Zheng Zhou, Yongquan Xue, Jiayi Chen, Chen Li, Fangzheng Shi, Missagh Mehdipour, 2025, A&A (resubmit after considering referee's comments), “Warm absorber outflows in radio-loud active galactic nucleus 3C 59”
