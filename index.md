@@ -44,6 +44,9 @@
 > Email: [wangyijun@nju.edu.cn](mailto:wangyijun@nju.edu.cn)
 > 
 > Address: Nanjing University (Xianlin Campus), 163 Xianlin Avenue, Qixia district, Nanjing, Jiangsu 210023, China
+>
+> My CV is here: [CV_WangYijun.pdf](https://github.com/user-attachments/files/20075123/CV_WangYijun.pdf)
+
 
 ## Hobbies
 I usually enjoy painting, cycling, and running, and now I'm learning to play the drums.
