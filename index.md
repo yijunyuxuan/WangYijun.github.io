@@ -47,4 +47,6 @@
 ## Hobbies
 I usually enjoy painting, cycling, and running, and now I'm learning to play the drums.
 ![Presentation3ll](https://github.com/user-attachments/assets/dcdbbef7-a3f4-4d56-93c1-78b7b53f1ac6)
+![homepage_hobbiesn](https://github.com/user-attachments/assets/79a375e0-a3bd-4ae0-b630-672ae5181e4a)
+
 
